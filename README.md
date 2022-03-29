@@ -2,6 +2,8 @@
 
 Este repositório contem todas as atividades desenvolvidas por _[Othavio Macedo Patricio](https://www.linkedin.com/in/othavio-patricio-092b391a3/)_ enquanto estudava na _[Trybe](https://www.betrybe.com/)_
 
+## Fundamentos do Desenvolvimento Web :hourglass_flowing_sand:
+
 ##### Bloco 1: Introdução - Unix & Shell
 - [x] 1-3: _Fundamentos do Desenvolvimento Web_
 - [x] 1-3: _Introdução - Unix & Shell_
