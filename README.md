@@ -13,7 +13,7 @@ Este repositório contem todas as atividades desenvolvidas por _[Othavio Macedo 
 ##### Bloco 2: Git & GitHub e Internet
 - [x] 2-1: _Git & GitHub - O que é e para que serve_
 - [x] 2-2: _Git & GitHub - Entendendo os comandos_
-- [ ] 2-3: _Internet - Entendendo como ela funciona_
+- [x] 2-3: _Internet - Entendendo como ela funciona_
 
 ##### Bloco 3: Introdução - HTML & CSS
 - [ ] 3-1: _Introdução - HTML & CSS_
@@ -98,7 +98,7 @@ Este repositório contem todas as atividades desenvolvidas por _[Othavio Macedo 
 ##### Bloco 14: Testes automatizados com React Testing Library
 - [ ] 14-1: _RTL - Primeiros passos_
 - [ ] 14-2: _RTL - Mocks e Inputs_
-- [ ] 14-3: _RTL - Terstando React Router_
+- [ ] 14-3: _RTL - Testando React Router_
 - [ ] 14-4: _[Projeto - Testes em React]()_
 
 ##### Bloco 15: Gerenciamento de estado com Redux
