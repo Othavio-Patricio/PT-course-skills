@@ -4,6 +4,6 @@ Aqui aprendi conceito de git clone, git pull e criações de branchs e também a
 
 Com isso sou capaz de:
 
-[x]Copiar um repositório já existente no GitHub para o seu computador;
-[x]Abrir Pull Requests;
-[x]Trabalhar em um mesmo projeto, com mais de uma pessoa, de forma assíncrona e distribuída;
+[x]Copiar um repositório já existente no GitHub para o seu computador.
+[x]Abrir Pull Requests.
+[x]Trabalhar em um mesmo projeto, com mais de uma pessoa, de forma assíncrona e distribuída.
