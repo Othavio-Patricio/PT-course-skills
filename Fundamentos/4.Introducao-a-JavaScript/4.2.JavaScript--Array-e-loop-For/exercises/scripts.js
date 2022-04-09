@@ -6,8 +6,12 @@ for(let number of numbers) {
 }
 
 //exercise 2
-let count = 0;
+let sum = 0;
 for(let number of numbers) {
-    count += number;
+    sum += number;
 }
-console.log(count);
+console.log(sum);
+
+//exercise 3
+let average = sum / numbers.length;
+console.log(average);
