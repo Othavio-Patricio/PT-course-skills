@@ -23,3 +23,12 @@ if (average > 20) {
 else {
     console.log('value lower than 20');
 }
+
+//exercise 5
+let bigger = numbers[0];
+for (let index = 0; index < numbers.length; index += 1) {
+    if (numbers[index] > bigger) {
+        bigger = numbers[index];
+    }
+}
+console.log(bigger);
