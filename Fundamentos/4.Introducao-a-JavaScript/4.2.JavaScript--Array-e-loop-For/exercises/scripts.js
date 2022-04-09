@@ -48,3 +48,12 @@ if (oddNumber == 0) {
 else {
     console.log(oddNumber);
 }
+
+//exercise 7
+let lower = numbers[0];
+for (let index = 1; index < numbers.length; index += 1) {
+    if (numbers[index] < lower) {
+        lower = numbers[index];
+    }
+}
+console.log(lower);
