@@ -26,9 +26,25 @@ else {
 
 //exercise 5
 let bigger = numbers[0];
-for (let index = 0; index < numbers.length; index += 1) {
+for (let index = 1; index < numbers.length; index += 1) {
     if (numbers[index] > bigger) {
         bigger = numbers[index];
     }
 }
 console.log(bigger);
+
+//exercise 6
+let oddNumber = 0;
+for (let index = 0; index < numbers.length; index += 1) {
+    if (numbers[index] % 2 != 0) {
+        console.log(numbers[index]);
+        oddNumber += 1;
+    }
+}
+
+if (oddNumber == 0) {
+    console.log('No odd number found')
+}
+else {
+    console.log(oddNumber);
+}
