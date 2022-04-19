@@ -6,3 +6,5 @@ Agora sou capaz de:
 - [x] Acessar dados do HTML com o JavaScript através dos seletores do DOM.
 - [x] Adicionar e remover elementos HTML da página via JavaScript.
 - [x] Buscar os elementos da página com a propriedade parentNode.
+- [x] Mudar o conteúdo, estilo e outros atributos de elementos HTML a partir de eventos do JavaScript.
+- [x] Aplicar no seu código JavaScript eventos de click e change, entre outros.
