@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+    <form action="">
+        <label for="full-name">Nome:
+            <input type="text" name="full-name" id="full-name" minlength="10" maxlength="40">
+        </label>
+        <br>
+        <label for="email">Email:
+            <input type="email" name="email" id="email" minlength="10" maxlength="50">
+        </label>
+        <br>
+        <label for="location-cidade">
+            <input type="radio" name="location" id="location-cidade">Cidade
+        </label>
+        <label for="location-campo">
+            <input type="radio" name="location" id="location-campo">Campo
+        </label>
+        <label for="location-praia">
+            <input type="radio" name="location" id="location-praia">Praia
+        </label>
+        <label for="location-montanhas">
+            <input type="radio" name="location" id="location-montanhas">Montanhas
+        </label>
+        <br>
+        <label for="text-area-motivos">Espaço para digitar a resposta:<br>
+            <textarea name="motivos" id="text-area-motivos" cols="30" rows="10" maxlength="500"></textarea>
+        </label>
+        <br>
+        <label for="data">Data:
+            <input type="date" name="data" id="data">
+        </label>
+        <br>
+        <label for="oportunindades">
+            <input type="checkbox" name="oportunindades" id="oportunindades">Gostaria de receber outras incríveis oportunidades oferecidas pela Trybe? 
+        </label>
+        <br>
+        <label for="concordo">
+            <input type="checkbox" name="concordo" id="concordo">Concordo que imagens das minhas férias poderão ser usadas na divulgação de concursos futuros. 
+        </label>
+        <br>
+        <button id="send-button" type="submit">Enviar</button>
+        <button id="delete-button" type="reset">Apagar</button>
+    </form>
+
+    <script src="script.js"></script>
+</body>
+</html>
