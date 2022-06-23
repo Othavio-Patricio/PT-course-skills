@@ -66,13 +66,13 @@ Este repositório contem todas as atividades desenvolvidas por _[Othavio Macedo 
 - [ ] 8-5: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
 - [ ] 8-6: _[Projeto - Zoo functions]()_
 
+## Desenvolvimento Front-end
+
 ##### Bloco 9: JavaScript e Testes Assíncronos
 - [ ] 9-1: _JavaScript Assíncrono e Callbacks_
 - [ ] 9-2: _JavaScript Assíncrono - Fetch API e async/await_
 - [ ] 9-3: _Jest - Testes Assíncronos_
 - [ ] 9-4: _[Projeto - Carrinho de Compras]()_
-
-## Desenvolvimento Front-end :hourglass_flowing_sand:
 
 ##### Bloco 10: Introdução à React
 - [ ] 10-1: _Introdução - Front-end_
